@@ -1,0 +1,23 @@
+# Ignore VS Code configuration folder
+.vscode/
+
+# Binaries and object files
+*.exe
+*.obj
+*.o
+*.out
+
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+
+# Other common files to ignore
+.DS_Store
+Thumbs.db
