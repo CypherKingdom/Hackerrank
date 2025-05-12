@@ -15,10 +15,15 @@ This repository contains my solutions to various HackerRank coding challenges im
 
 ### C# Solutions
 - **String Manipulation**
-  - [Designer PDF Viewer](designerPDFViewer.cs) - Calculate the area of highlighted text in a PDF viewer
   - [Love Letter Mystery](loveLetterMystery.cs) - Calculate the minimum operations to convert a string to a palindrome
   - [Palindrome Index](palindromeIndex.cs) - Find which character to remove to make a string a palindrome
   - [Time Conversion](timeConversion.cs) - Convert 12-hour AM/PM format to 24-hour format
+- **Implementation Challenges**
+  - [Designer PDF Viewer](designerPDFViewer.cs) - Calculate the area of highlighted text in a PDF viewer
+  - [Angry Professor](angryProfessor.cs) - Determine if class is cancelled based on student arrival times
+  - [Beautiful Days at the Movies](beautifulDays.cs) - Count beautiful days based on integer reversals
+  - [Utopian Tree](utopianTree.cs) - Calculate the height of a tree after cycles of growth
+  - [Viral Advertising](viralAdvertising.cs) - Calculate cumulative likes from a viral marketing campaign
 
 ## Compilation and Execution
 
